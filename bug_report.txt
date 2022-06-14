@@ -1,0 +1,10 @@
+ID
+Summary
+STR
+Actual_result
+Expected_result
+Environment
+Build
+Severity
+Priority
+Attachments
