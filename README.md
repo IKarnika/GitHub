@@ -29,7 +29,7 @@ GitHub. HW_2
 ```vim bug_report.txt```  
 Stucture|  
 :--:|  
-	ID  
+ID  
 	Summary  
 	STR  
 	Actual_result  
