@@ -1,8 +1,8 @@
 GitHub. HW_2
 1. На локальном репозитории сделать ветки для:  
-Postman git branch Postman  
-Jmeter git branch Jmeter  
-CheckLists git branch Checklists  
+- Postman git branch Postman  
+- Jmeter git branch Jmeter  
+- CheckLists git branch Checklists  
 - Bag Reports git branch Bug_reports  
 - SQL git branch SQL
 - Charles git branch Charles
