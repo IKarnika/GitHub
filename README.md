@@ -28,7 +28,7 @@ GitHub. HW_2
 ```git chekout Bug_reports```  
 ```vim bug_report.txt```  
 Stucture| Стурктура  
-:--:|:--:  
+--- | ---  
 ID | Номер  
 Summary | Описание  
 STR | Шаги воспроизведения  
