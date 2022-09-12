@@ -9,13 +9,13 @@ GitHub. HW_2
 - Bag Reports  
 ```git branch Bug_reports```  
 - SQL  
-```git branch SQL```
-Charles  
+```git branch SQL```  
+- Charles  
 ```git branch Charles```
 - Mobile testing  
 ```git branch Mobile_testing```
 
-2. Запушить все ветки на внешний репозиторий
+2. Запушить все ветки на внешний репозиторий  
 ```git push -u origin Postman```  
 ```git push -u origin Jmeter```  
 ```git push -u origin Checklists```  
