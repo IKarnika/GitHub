@@ -27,18 +27,18 @@ GitHub. HW_2
 3. В ветке Bag Reports сделать текстовый документ со структурой баг репорта  
 ```git chekout Bug_reports```  
 ```vim bug_report.txt```  
-Stucture|  
-:--:|  
-ID  
-	Summary  
-	STR  
-	Actual_result  
-	Expected_result  
-	Environment  
-	Build  
-	Severity  
-	Priority  
-	Attachments  
+Stucture| Стурктура  
+:--:|:--:  
+ID | Номер  
+Summary | Описание  
+STR | Шаги воспроизведения  
+Actual_result | Фактический результат  
+Expected_result | Ожидаемый резульат  
+Environment | Окружение  
+Build | Версия  
+Severity | Серьезность  
+Priority | Приоритет  
+Attachments | Приложение  
 ```Esc, :wq, enter```
 
 4. Запушить структуру багрепорта на внешний репозиторий
