@@ -57,21 +57,23 @@ Attachments | Приложение
 
 7. В ветке CheckLists набросать структуру чек листа  
 ```git checkout checklists```  
+
 ```vim checklist.txt```  
+
 	Title  
 	Actual_result  
 	Expected_result  
 	Attachments  
 
-8. Запушить структуру на внешний репозиторий
-git add checklist.txt
-git commit -m "Added new checklist"
-git push
+8. Запушить структуру на внешний репозиторий  
+```git add checklist.txt```  
+```git commit -m "Added new checklist"```  
+```git push```  
 
-9. На внешнем репозитории сделать Pull Request ветки CheckLists в main
-github.com
-click on "Compare & pull request"
+9. На внешнем репозитории сделать Pull Request ветки CheckLists в main  
+*github.com  
+click on "Compare & pull request"*  
 
-10. Синхронизировать Внешнюю и Локальную ветки Main
-git checkout main
-git pull
+10. Синхронизировать Внешнюю и Локальную ветки Main  
+```git checkout main```  
+```git pull```  
