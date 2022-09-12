@@ -57,7 +57,6 @@ Attachments | Приложение
 
 7. В ветке CheckLists набросать структуру чек листа  
 ```git checkout checklists```  
-
 ```vim checklist.txt```  
 
 	Title  
@@ -71,6 +70,7 @@ Attachments | Приложение
 ```git push```  
 
 9. На внешнем репозитории сделать Pull Request ветки CheckLists в main  
+
 *github.com  
 click on "Compare & pull request"*  
 
