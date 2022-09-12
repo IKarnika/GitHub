@@ -24,20 +24,21 @@ GitHub. HW_2
 ```git push -u origin Charles```  
 ```git push -u origin Mobile_testing```  
 
-3. В ветке Bag Reports сделать текстовый документ со структурой баг репорта
-git chekout Bug_reports
-vim bug_report.txt
-	ID
-	Summary
-	STR
-	Actual_result
-	Expected_result
-	Environment
-	Build
-	Severity
-	Priority
-	Attachments
-Esc, :wq, enter
+3. В ветке Bag Reports сделать текстовый документ со структурой баг репорта  
+```git chekout Bug_reports```  
+```vim bug_report.txt```  
+:--:
+	ID  
+	Summary  
+	STR  
+	Actual_result  
+	Expected_result  
+	Environment  
+	Build  
+	Severity  
+	Priority  
+	Attachments  
+```Esc, :wq, enter```
 
 4. Запушить структуру багрепорта на внешний репозиторий
 git add bug_report.txt
